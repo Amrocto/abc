@@ -1,0 +1,64 @@
+Validating found git in: git
+Using git 1.8.3.1 from git
+Opening repository for path='/home/gazizovnr' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/gazizovnr' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/gazizovnr/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/gazizovnr/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/gazizovnr/.bash_profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/gazizovnr/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/gazizovnr/.pki' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/gazizovnr/.ssh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/gazizovnr/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/gazizovnr/Dockerfile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/gazizovnr/conf' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/gazizovnr/data' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/gazizovnr/docker-compose.yml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/gazizovnr/html' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}

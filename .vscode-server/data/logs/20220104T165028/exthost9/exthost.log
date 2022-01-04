@@ -1,0 +1,11 @@
+[2022-01-04 19:36:05.183] [exthost] [info] Extension host with pid 24358 started
+[2022-01-04 19:36:05.296] [exthost] [info] Lock '/home/gazizovnr/.vscode-server/data/User/workspaceStorage/09fd12070f2bf6eec7b3aae39df1823f/vscode.lock': Lock acquired.
+[2022-01-04 19:36:05.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-04 19:36:05.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-04 19:36:05.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-04 19:36:05.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-04 19:36:05.983] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-04 19:36:06.000] [exthost] [info] Eager extensions activated
+[2022-01-04 19:36:48.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-01-04 19:37:23.956] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-01-04 19:42:32.022] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'

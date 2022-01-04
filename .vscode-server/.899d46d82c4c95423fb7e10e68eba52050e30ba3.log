@@ -1,0 +1,114 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 36316
+
+[16:50:28] Extension host agent started.
+[16:50:29] [127.0.0.1][6ec0400f][ExtensionHostConnection] New connection established.
+[16:50:29] [127.0.0.1][01863232][ManagementConnection] New connection established.
+[16:50:29] [127.0.0.1][6ec0400f][ExtensionHostConnection] <1518> Launched Extension Host Process.
+[16:51:01] [127.0.0.1][01863232][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:51:01] [127.0.0.1][6ec0400f][ExtensionHostConnection] <1518> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[16:51:01] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[16:51:08] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[16:51:08] Cancelling previous shutdown timeout
+[16:51:08] [127.0.0.1][b6b285ed][ManagementConnection] New connection established.
+[16:51:08] [127.0.0.1][0194ec61][ExtensionHostConnection] New connection established.
+[16:51:08] [127.0.0.1][0194ec61][ExtensionHostConnection] <1618> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[16:56:08] New EH opened, aborting shutdown
+[18:38:29] [127.0.0.1][b6b285ed][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:38:29] [127.0.0.1][0194ec61][ExtensionHostConnection] <1618> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[18:38:29] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[18:38:40] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[18:38:40] Cancelling previous shutdown timeout
+[18:38:40] [127.0.0.1][bc17f7d6][ManagementConnection] New connection established.
+[18:38:40] [127.0.0.1][d28ac05b][ExtensionHostConnection] New connection established.
+[18:38:40] [127.0.0.1][d28ac05b][ExtensionHostConnection] <16871> Launched Extension Host Process.
+rejected promise not handled within 1 second: Error: Could not find pty with id "13"
+stack trace: Error: Could not find pty with id "13",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "13",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+rejected promise not handled within 1 second: Error: Could not find pty with id "13"
+stack trace: Error: Could not find pty with id "13",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "13",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+New EH opened, aborting shutdown
+[18:43:40] New EH opened, aborting shutdown
+[18:46:39] [127.0.0.1][77b2635e][ManagementConnection] New connection established.
+[18:46:39] [127.0.0.1][a8291f36][ExtensionHostConnection] New connection established.
+[18:46:39] [127.0.0.1][a8291f36][ExtensionHostConnection] <18058> Launched Extension Host Process.
+[19:03:41] [127.0.0.1][a5811bf1][ManagementConnection] New connection established.
+[19:03:41] [127.0.0.1][e3e68ffe][ExtensionHostConnection] New connection established.
+[19:03:41] [127.0.0.1][e3e68ffe][ExtensionHostConnection] <20240> Launched Extension Host Process.
+[19:08:01] Installing extension: ms-azuretools.vscode-docker
+[19:08:03] Downloaded extension: ms-azuretools.vscode-docker /home/gazizovnr/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[19:08:05] Extracted extension to /home/gazizovnr/.vscode-server/extensions/.8ca676ea-76b6-4836-b319-0c2b5a1f1200: ms-azuretools.vscode-docker
+[19:08:05] Renamed to /home/gazizovnr/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[19:08:05] Extracting completed. ms-azuretools.vscode-docker
+[19:08:05] Extension installed successfully: ms-azuretools.vscode-docker
+[19:26:41] [127.0.0.1][2cd61596][ManagementConnection] New connection established.
+[19:26:41] [127.0.0.1][92db2fc0][ExtensionHostConnection] New connection established.
+[19:26:42] [127.0.0.1][92db2fc0][ExtensionHostConnection] <23129> Launched Extension Host Process.
+[19:26:53] [127.0.0.1][77b2635e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+rejected promise not handled within 1 second: Error: Could not find pty with id "29"
+stack trace: Error: Could not find pty with id "29",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "29",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+rejected promise not handled within 1 second: Error: Could not find pty with id "29"
+stack trace: Error: Could not find pty with id "29",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "29",    at l._throwIfNoPty (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gazizovnr/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[19:26:57] [127.0.0.1][a8291f36][ExtensionHostConnection] <18058> Extension Host Process exited with code: 0, signal: null.
+[19:27:03] [127.0.0.1][bc17f7d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:27:06] [127.0.0.1][d28ac05b][ExtensionHostConnection] <16871> Extension Host Process exited with code: 0, signal: null.
+[19:34:52] [127.0.0.1][2cd61596][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:34:52] [127.0.0.1][92db2fc0][ExtensionHostConnection] <23129> Extension Host Process exited with code: 0, signal: null.
+[19:35:02] [127.0.0.1][27ed777c][ManagementConnection] New connection established.
+[19:35:02] [127.0.0.1][7165d7ff][ExtensionHostConnection] New connection established.
+[19:35:02] [127.0.0.1][7165d7ff][ExtensionHostConnection] <23975> Launched Extension Host Process.
+[19:35:06] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[19:35:06] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:35:06] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[19:35:06] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:35:06] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[19:35:06] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:35:06] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[19:35:06] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:35:07] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[19:35:07] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:35:08] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[19:35:08] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[19:35:29] [127.0.0.1][27ed777c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:35:29] [127.0.0.1][7165d7ff][ExtensionHostConnection] <23975> Extension Host Process exited with code: 0, signal: null.
+[19:35:37] [127.0.0.1][c401eefa][ManagementConnection] New connection established.
+[19:35:37] [127.0.0.1][75ab763d][ExtensionHostConnection] New connection established.
+[19:35:37] [127.0.0.1][75ab763d][ExtensionHostConnection] <24263> Launched Extension Host Process.
+[19:35:47] [127.0.0.1][c401eefa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:35:47] [127.0.0.1][75ab763d][ExtensionHostConnection] <24263> Extension Host Process exited with code: 0, signal: null.
+[19:35:59] [127.0.0.1][4e30f17f][ManagementConnection] New connection established.
+[19:35:59] [127.0.0.1][353c2789][ExtensionHostConnection] New connection established.
+[19:35:59] [127.0.0.1][353c2789][ExtensionHostConnection] <24358> Launched Extension Host Process.
+[19:36:02] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[19:36:02] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:36:02] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[19:36:02] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:36:02] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[19:36:02] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:36:02] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[19:36:02] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:36:03] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[19:36:03] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:36:05] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[19:36:05] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[20:01:03] [127.0.0.1][dc50acd9][ManagementConnection] New connection established.
+[20:01:03] [127.0.0.1][caad9665][ExtensionHostConnection] New connection established.
+[20:01:03] [127.0.0.1][caad9665][ExtensionHostConnection] <30533> Launched Extension Host Process.

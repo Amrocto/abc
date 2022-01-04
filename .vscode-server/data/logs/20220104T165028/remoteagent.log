@@ -1,0 +1,93 @@
+[2022-01-04 16:50:29.099] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-04 16:50:29.100] [remoteagent] [info] Extension host agent started.
+[2022-01-04 16:50:29.182] [remoteagent] [info] [127.0.0.1][6ec0400f][ExtensionHostConnection] New connection established.
+[2022-01-04 16:50:29.188] [remoteagent] [info] [127.0.0.1][01863232][ManagementConnection] New connection established.
+[2022-01-04 16:50:29.195] [remoteagent] [info] [127.0.0.1][6ec0400f][ExtensionHostConnection] <1518> Launched Extension Host Process.
+[2022-01-04 16:51:01.341] [remoteagent] [info] [127.0.0.1][01863232][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-04 16:51:01.546] [remoteagent] [info] [127.0.0.1][6ec0400f][ExtensionHostConnection] <1518> Extension Host Process exited with code: 0, signal: null.
+[2022-01-04 16:51:01.556] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-04 16:51:08.179] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-01-04 16:51:08.181] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-01-04 16:51:08.495] [remoteagent] [info] [127.0.0.1][b6b285ed][ManagementConnection] New connection established.
+[2022-01-04 16:51:08.499] [remoteagent] [info] [127.0.0.1][0194ec61][ExtensionHostConnection] New connection established.
+[2022-01-04 16:51:08.511] [remoteagent] [info] [127.0.0.1][0194ec61][ExtensionHostConnection] <1618> Launched Extension Host Process.
+[2022-01-04 16:56:08.191] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-01-04 18:38:29.248] [remoteagent] [info] [127.0.0.1][b6b285ed][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-04 18:38:29.415] [remoteagent] [info] [127.0.0.1][0194ec61][ExtensionHostConnection] <1618> Extension Host Process exited with code: 0, signal: null.
+[2022-01-04 18:38:29.419] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-04 18:38:40.260] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-01-04 18:38:40.260] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-01-04 18:38:40.781] [remoteagent] [info] [127.0.0.1][bc17f7d6][ManagementConnection] New connection established.
+[2022-01-04 18:38:40.786] [remoteagent] [info] [127.0.0.1][d28ac05b][ExtensionHostConnection] New connection established.
+[2022-01-04 18:38:40.931] [remoteagent] [info] [127.0.0.1][d28ac05b][ExtensionHostConnection] <16871> Launched Extension Host Process.
+[2022-01-04 18:43:40.264] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-01-04 18:46:39.049] [remoteagent] [info] [127.0.0.1][77b2635e][ManagementConnection] New connection established.
+[2022-01-04 18:46:39.068] [remoteagent] [info] [127.0.0.1][a8291f36][ExtensionHostConnection] New connection established.
+[2022-01-04 18:46:39.191] [remoteagent] [info] [127.0.0.1][a8291f36][ExtensionHostConnection] <18058> Launched Extension Host Process.
+[2022-01-04 19:03:41.531] [remoteagent] [info] [127.0.0.1][a5811bf1][ManagementConnection] New connection established.
+[2022-01-04 19:03:41.534] [remoteagent] [info] [127.0.0.1][e3e68ffe][ExtensionHostConnection] New connection established.
+[2022-01-04 19:03:41.582] [remoteagent] [info] [127.0.0.1][e3e68ffe][ExtensionHostConnection] <20240> Launched Extension Host Process.
+[2022-01-04 19:08:01.850] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-01-04 19:08:03.816] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/gazizovnr/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[2022-01-04 19:08:05.464] [remoteagent] [info] Extracted extension to /home/gazizovnr/.vscode-server/extensions/.8ca676ea-76b6-4836-b319-0c2b5a1f1200: ms-azuretools.vscode-docker
+[2022-01-04 19:08:05.496] [remoteagent] [info] Renamed to /home/gazizovnr/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[2022-01-04 19:08:05.498] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-01-04 19:08:05.499] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-01-04 19:26:41.782] [remoteagent] [info] [127.0.0.1][2cd61596][ManagementConnection] New connection established.
+[2022-01-04 19:26:41.915] [remoteagent] [info] [127.0.0.1][92db2fc0][ExtensionHostConnection] New connection established.
+[2022-01-04 19:26:42.411] [remoteagent] [info] [127.0.0.1][92db2fc0][ExtensionHostConnection] <23129> Launched Extension Host Process.
+[2022-01-04 19:26:53.965] [remoteagent] [info] [127.0.0.1][77b2635e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-04 19:26:57.202] [remoteagent] [info] [127.0.0.1][a8291f36][ExtensionHostConnection] <18058> Extension Host Process exited with code: 0, signal: null.
+[2022-01-04 19:27:03.638] [remoteagent] [info] [127.0.0.1][bc17f7d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-04 19:27:06.501] [remoteagent] [info] [127.0.0.1][d28ac05b][ExtensionHostConnection] <16871> Extension Host Process exited with code: 0, signal: null.
+[2022-01-04 19:34:52.211] [remoteagent] [info] [127.0.0.1][2cd61596][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-04 19:34:52.460] [remoteagent] [info] [127.0.0.1][92db2fc0][ExtensionHostConnection] <23129> Extension Host Process exited with code: 0, signal: null.
+[2022-01-04 19:35:02.318] [remoteagent] [info] [127.0.0.1][27ed777c][ManagementConnection] New connection established.
+[2022-01-04 19:35:02.371] [remoteagent] [info] [127.0.0.1][7165d7ff][ExtensionHostConnection] New connection established.
+[2022-01-04 19:35:02.485] [remoteagent] [info] [127.0.0.1][7165d7ff][ExtensionHostConnection] <23975> Launched Extension Host Process.
+[2022-01-04 19:35:06.245] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[2022-01-04 19:35:06.246] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:35:06.431] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[2022-01-04 19:35:06.431] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:35:06.580] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[2022-01-04 19:35:06.580] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:35:06.750] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[2022-01-04 19:35:06.750] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:35:07.044] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[2022-01-04 19:35:07.048] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:35:08.085] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gazizovnr)
+[2022-01-04 19:35:08.096] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-01-04 19:35:29.734] [remoteagent] [info] [127.0.0.1][27ed777c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-04 19:35:29.830] [remoteagent] [info] [127.0.0.1][7165d7ff][ExtensionHostConnection] <23975> Extension Host Process exited with code: 0, signal: null.
+[2022-01-04 19:35:37.251] [remoteagent] [info] [127.0.0.1][c401eefa][ManagementConnection] New connection established.
+[2022-01-04 19:35:37.267] [remoteagent] [info] [127.0.0.1][75ab763d][ExtensionHostConnection] New connection established.
+[2022-01-04 19:35:37.279] [remoteagent] [info] [127.0.0.1][75ab763d][ExtensionHostConnection] <24263> Launched Extension Host Process.
+[2022-01-04 19:35:47.812] [remoteagent] [info] [127.0.0.1][c401eefa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-04 19:35:47.864] [remoteagent] [info] [127.0.0.1][75ab763d][ExtensionHostConnection] <24263> Extension Host Process exited with code: 0, signal: null.
+[2022-01-04 19:35:59.348] [remoteagent] [info] [127.0.0.1][4e30f17f][ManagementConnection] New connection established.
+[2022-01-04 19:35:59.367] [remoteagent] [info] [127.0.0.1][353c2789][ExtensionHostConnection] New connection established.
+[2022-01-04 19:35:59.381] [remoteagent] [info] [127.0.0.1][353c2789][ExtensionHostConnection] <24358> Launched Extension Host Process.
+[2022-01-04 19:36:02.036] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-04 19:36:02.037] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:36:02.462] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-04 19:36:02.463] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:36:02.628] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-04 19:36:02.628] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:36:02.801] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-04 19:36:02.801] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:36:03.762] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-04 19:36:03.765] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-04 19:36:05.317] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[2022-01-04 19:36:05.317] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-01-04 20:01:03.509] [remoteagent] [info] [127.0.0.1][dc50acd9][ManagementConnection] New connection established.
+[2022-01-04 20:01:03.528] [remoteagent] [info] [127.0.0.1][caad9665][ExtensionHostConnection] New connection established.
+[2022-01-04 20:01:03.635] [remoteagent] [info] [127.0.0.1][caad9665][ExtensionHostConnection] <30533> Launched Extension Host Process.
