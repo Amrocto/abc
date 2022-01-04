@@ -20,7 +20,7 @@ services:
     volumes: 
       - ./html:/usr/share/nginx/html
 
- mysql:
+   mysql:
     image: "mysql:latest"
     container_name: mysql
     ports:
@@ -44,4 +44,5 @@ services:
       - PMA_HOST=mysql
     depends_on:
       - mysql 
+
 
