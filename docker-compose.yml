@@ -21,10 +21,10 @@ services:
       - ./html:/usr/share/nginx/html
 
   mysql:
-   image: "mysql:latest"
-   container_name: mysql
-   ports:
-     - "3306:3306"
+    image: "mysql:latest"
+    container_name: mysql
+    ports:
+      - "3306:3306"
     environment:
       TZ: Europe/Moscow
       MYSQL_ROOT_PASSWORD: Str0ngPaSSw0rd
